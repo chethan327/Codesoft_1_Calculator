@@ -37,6 +37,9 @@ This project is a basic calculator application created with Python and Tkinter. 
 - `button_press(num)`: Appends the pressed button's value to the current equation text.
 - `equals()`: Evaluates the equation and updates the display with the result. Handles syntax errors and division by zero errors.
 - `clear()`: Resets the equation text and clears the display.
+## Screenshot
+
+![Calculator](https://github.com/chethan327/Codesoft_1_Calculator/assets/174487581/50d63470-b72d-435d-9b54-b66b00a0ae13)
 
 
 
